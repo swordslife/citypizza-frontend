@@ -7,7 +7,7 @@ const GoogleRecaptcha = (props) => {
     }
     return (
         <>
-            <ReCAPTCHA sitekey="Your client site key" onChange={onChange} />,
+            <ReCAPTCHA sitekey="6LfSiIYoAAAAAArTQAKKdYR51IqP0gnzIbVHJbnv" onChange={onChange} />,
         </>
     )
 }
